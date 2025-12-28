@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  🌱 <strong>I am an aspiring researcher just starting my journey.</strong><br>
+   <strong>I am an aspiring researcher just starting my journey.</strong><br>
   I am currently building my foundation in <strong>Quantum Optimization</strong>, <strong>Quantum Machine Learning</strong>, and <strong>Deep Learning optimization</strong>.<br>
   As a beginner, I am eager to learn and grow. I am looking for study communities and welcome connections with anyone interested in these topics.<br>
   Please feel free to contact me!
