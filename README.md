@@ -46,7 +46,7 @@ My study is grounded in a strong mathematical foundation:
 
 * **Linear Algebra**: Vector spaces, Matrix decomposition, Eigenvalues/Eigenvectors.
 * **Multivariable Calculus**: Gradients, Partial derivatives for Backpropagation.
-* **Probability & Statistics**: Stochastic processes, Bayesian inference, Statistical modeling.
+* **Probability & Statistics**: Stochastic processes, Bayesian statistics.
 
 <br>
 
