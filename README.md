@@ -1,19 +1,28 @@
 <div align="center">
 
-# Hi there, I'm Eunsu101
+<table width="100%" style="border: 0;">
+  <tr>
+    <td bgcolor="#e8e7e3" align="center" style="border: 0; border-radius: 15px; padding: 20px;">
+      
+      # Hi there, I'm Eunsu101
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Undergraduate+Researcher;Quantum+Machine+Learning;Linear+Algebra+%26+Statistics" alt="Typing SVG" />
-</a>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Undergraduate+Researcher;Quantum+Machine+Learning;Linear+Algebra+%26+Statistics" alt="Typing SVG" />
+      </a>
 
-<p>
-  <em>"Exploring the intersection of Classical Deep Learning and Quantum Artificial Intelligence"</em>
-</p>
+      <p>
+        <em>"Exploring the intersection of Classical Deep Learning and Quantum Artificial Intelligence"</em>
+      </p>
 
-<br>
+      <br>
 
-<a href="mailto:doctor031699@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/eunsu-o-170ab5255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+      <a href="mailto:doctor031699@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/eunsu-o-170ab5255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+      <a href="https://www.notion.so/Undergraduate-researcher-26479115c7db808687f3cddf2a621924?source=copy_link"><img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
+    </td>
+  </tr>
+</table>
 
 </div>
 
