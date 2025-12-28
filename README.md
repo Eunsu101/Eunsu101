@@ -61,18 +61,16 @@ Beyond research, I find inspiration in:
 <div align="center">
   <h3>📸 Gallery</h3>
   
-  <img src="me.PNG" height="180" style="border-radius: 10px; margin: 5px;" alt="Me" />
-  <img src="conference.PNG" height="180" style="border-radius: 10px; margin: 5px;" alt="Conference" />
-  <img src="study.PNG" height="180" style="border-radius: 10px; margin: 5px;" alt="Study" />
-  <img src="QC.PNG" height="180" style="border-radius: 10px; margin: 5px;" alt="Quantum Computing" />
-  <img src="cal.PNG" height="180" style="border-radius: 10px; margin: 5px;" alt="Calendar" />
+  <img src="me.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Me" />
+  <img src="conference.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Conference" />
+  <img src="study.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Study" />
+  <img src="QC.PNG" height="280" style="border-radius: 15px; margin: 10px;" alt="Quantum Computing" />
   
-  <br>
+  <br><br>
 
-  <img src="photo.png" height="180" style="border-radius: 10px; margin: 5px;" alt="Exhibition" />
-  <img src="night.png" height="180" style="border-radius: 10px; margin: 5px;" alt="Night View" />
-  <img src="cats.png" height="180" style="border-radius: 10px; margin: 5px;" alt="Cats" />
-  <img src="taylor.PNG" height="180" style="border-radius: 10px; margin: 5px;" alt="Taylor Swift" />
+  <img src="photo.png" height="280" style="border-radius: 15px; margin: 10px;" alt="Exhibition" />
+  <img src="night.png" height="280" style="border-radius: 15px; margin: 10px;" alt="Night View" />
+  <img src="cats.png" height="280" style="border-radius: 15px; margin: 10px;" alt="Cats" />
 </div>
 
 <br>
