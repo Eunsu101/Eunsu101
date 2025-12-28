@@ -19,18 +19,18 @@
 
 <br>
 
-## 🔬 Research Interests
+##  Research Interests
 
 I am focusing on **Deep Learning optimization** and the potential of **Quantum Machine Learning (QML)**.
 
 | **Domain** | **Key Topics** |
 | :--- | :--- |
-| **🤖 Deep Learning** | • **ANN Architecture**<br>• **Optimization Algorithms**<br>• **Regularization** (Solving Overfitting) |
-| **⚛️ Quantum AI** | • **VQC** (Variational Quantum Circuits)<br>• **QNN** (Quantum Neural Networks)<br>• **SVM + Quantum Kernel**<br>• **Quantum Embedding** |
+| ** Deep Learning** | • **ANN Architecture**<br>• **Optimization Algorithms**<br>• **Regularization** (Solving Overfitting) |
+| ** Quantum AI** | • **VQC** (Variational Quantum Circuits)<br>• **QNN** (Quantum Neural Networks)<br>• **SVM + Quantum Kernel**<br>• **Quantum Embedding** |
 
 <br>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages & Frameworks
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/PennyLane-000000?style=for-the-badge&logo=python&logoColor=F59E0B"/> 
@@ -40,7 +40,7 @@ I am focusing on **Deep Learning optimization** and the potential of **Quantum M
 
 <br>
 
-## 📐 Mathematical Proficiency
+##  Mathematical Proficiency
 
 My research is grounded in a strong mathematical foundation:
 
