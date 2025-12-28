@@ -3,7 +3,7 @@
 # Hi there, I'm Eunsu101
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Deep+Learning+Researcher;Quantum+Machine+Learning;Solving+Overfitting;Linear+Algebra+%26+Statistics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Undergraduate+Researcher;Quantum+Machine+Learning;Solving+Overfitting;Linear+Algebra+%26+Statistics" alt="Typing SVG" />
 </a>
 
 <p>
@@ -42,7 +42,7 @@ I am focusing on **Deep Learning optimization** and the potential of **Quantum M
 
 ## Mathematical Proficiency
 
-My research is grounded in a strong mathematical foundation:
+My study is grounded in a strong mathematical foundation:
 
 * **Linear Algebra**: Vector spaces, Matrix decomposition, Eigenvalues/Eigenvectors.
 * **Multivariable Calculus**: Gradients, Partial derivatives for Backpropagation.
@@ -59,9 +59,9 @@ Beyond research, I find inspiration in:
 <br>
 
 <div align="center">
-  <h3>Gallery</h3>
-  <img src="art.jpg" height="300" alt="Art Exhibition" style="border-radius: 10px; margin-right: 10px;" />
-  <img src="night.jpg" height="300" alt="Night View" style="border-radius: 10px;" />
+  <img src="photo.png" height="250" alt="Photo" style="border-radius: 10px; margin: 5px;" />
+  <img src="night.png" height="250" alt="Night View" style="border-radius: 10px; margin: 5px;" />
+  <img src="cats.png" height="250" alt="Cats" style="border-radius: 10px; margin: 5px;" />
 </div>
 
 <br>
