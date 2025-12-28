@@ -6,9 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Deep+Learning;Quantum+Machine+Learning;Linear+Algebra+%26+Statistics" alt="Typing SVG" />
 </a>
 
+<p>
+  <em>"Exploring the intersection of Classical Deep Learning and Quantum Artificial Intelligence"</em>
+</p>
+
 <br>
 
-<p>
+<p align="center">
   🌱 <strong>I am an aspiring researcher just starting my journey.</strong><br>
   I am currently building my foundation in <strong>Quantum Optimization</strong>, <strong>Quantum Machine Learning</strong>, and <strong>Deep Learning optimization</strong>.<br>
   As a beginner, I am eager to learn and grow. I am looking for study communities and welcome connections with anyone interested in these topics.<br>
