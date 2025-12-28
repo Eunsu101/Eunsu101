@@ -14,7 +14,6 @@
 
 <a href="mailto:doctor031699@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/eunsu-o-170ab5255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.notion.so/Undergraduate-researcher-26479115c7db808687f3cddf2a621924?source=copy_link"><img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 </div>
 
